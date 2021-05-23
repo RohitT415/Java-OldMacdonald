@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rooster
+comment0.text=\n\ Defines\ properties\ of\ objects\ of\ type\ Rooster.\n\n\ @author\ Rohit\ Tallapragada\n\ @version\ Nov\ 26,\ 2020\n
+comment1.params=
+comment1.target=Rooster()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Rooster.\n
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment2.text=\n\ Returns\ a\ String\ of\ the\ noise\ of\ the\ animal.\n\ \n\ @return\ \ the\ noise\ of\ the\ rooster\n
+numComments=3

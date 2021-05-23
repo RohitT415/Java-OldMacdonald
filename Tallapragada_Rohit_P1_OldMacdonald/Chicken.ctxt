@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Chicken
+comment0.text=\n\ Defines\ properties\ of\ objects\ of\ type\ Chicken.\n\n\ @author\ Rohit\ Tallapragada\n\ @version\ Nov\ 26,\ 2020\n
+comment1.params=
+comment1.target=Chicken()
+comment1.text=\n\ Constructor\ for\ objects\ of\ Chicken.\n
+comment2.params=chickenType
+comment2.target=Chicken(java.lang.String)
+comment2.text=\n\ Constructor\ for\ Chicken\n\ \n\ @param\ \ \ chickenType\ the\ type\ of\ chicken\n
+comment3.params=
+comment3.target=java.lang.String\ speak()
+comment3.text=\n\ Returns\ a\ String\ of\ the\ noise\ of\ the\ animal.\n\ \n\ @return\ \ the\ noise\ of\ the\ chicken\n
+numComments=4

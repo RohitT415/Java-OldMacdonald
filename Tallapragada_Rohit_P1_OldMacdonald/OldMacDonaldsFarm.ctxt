@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OldMacDonaldsFarm
+comment0.text=\n\ Serves\ as\ a\ tester\ for\ the\ other\ animal\ classes.\n\n\ @author\ Rohit\ Tallapragada\n\ @version\ Nov\ 26,\ 2020\n
+comment1.params=
+comment1.target=OldMacDonaldsFarm()
+comment1.text=\n\ Constructor\ for\ objects\ of\ OldMacDonaldsFarm.\n
+comment2.params=
+comment2.target=void\ singVerse()
+comment2.text=\n\ Sings\ a\ verse\ of\ the\ song.\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ Runs\ OldMacDonaldsFarm\ to\ see\ if\ the\ project\ works\ as\ intended.\n\ \n\ @param\ args\ \ the\ data\ needed\ to\ run\ the\ program\n
+numComments=4

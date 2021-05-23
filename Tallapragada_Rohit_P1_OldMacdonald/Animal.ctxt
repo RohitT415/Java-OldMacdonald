@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\n\ Defines\ properties\ of\ objects\ of\ type\ Animal.\n\n\ @author\ Rohit\ Tallapragada\n\ @version\ Nov\ 26,\ 2020\n
+comment1.params=name
+comment1.target=void\ setLatinName(java.lang.String)
+comment1.text=\n\ Sets\ latinName\ to\ a\ new\ value.\n\ \n\ @param\ \ \ name\ \ \ the\ common\ name\n
+comment2.params=name
+comment2.target=void\ setCommonName(java.lang.String)
+comment2.text=\n\ Sets\ commonName\ to\ a\ new\ value.\n\ \n\ @param\ \ \ name\ \ \ the\ common\ name\n
+comment3.params=
+comment3.target=java.lang.String\ getLatinName()
+comment3.text=\n\ Returns\ latinName's\ value.\n\ \n\ @return\ \ the\ latin\ name\n
+comment4.params=
+comment4.target=java.lang.String\ getCommonName()
+comment4.text=\n\ Returns\ commonName's\ value.\n\ \n\ @return\ \ the\ common\ name\n
+comment5.params=obj
+comment5.target=int\ compareTo(java.lang.Object)
+comment5.text=\n\ Compares\ the\ current\ object's\ common\ name\ to\ the\ other\ objects\ common\ name.\n\ \n\ @param\ obj\ the\ compared\ object\n\ \n\ @return\ \ 0\ if\ the\ two\ names\ are\ lexiocographically\ equal\n\ \ \ \ \ \ \ \ \ >0\ if\ this\ object's\ name\ is\ alphabetically\ eariler\n\ \ \ \ \ \ \ \ \ \ \ \ than\ the\ obj's\ name\n\ \ \ \ \ \ \ \ \ <0\ if\ this\ object's\ name\ is\ alphabtically\ later\n\ \ \ \ \ \ \ \ \ \ \ \ than\ the\ obj's\ name\n
+comment6.params=
+comment6.target=java.lang.String\ speak()
+comment6.text=\n\ Returns\ a\ String\ of\ the\ noise\ of\ the\ animal.\n\ \n\ @return\ \ the\ animal's\ noise\n
+comment7.params=latin\ common
+comment7.target=Animal(java.lang.String,\ java.lang.String)
+comment7.text=\n\ Constructor\ for\ objects\ of\ class\ Animal.\n\ \n\ @param\ latin\ \ \ \ \ the\ latin\ name\n\ @param\ common\ \ \ \ the\ common\ name\n
+numComments=8
